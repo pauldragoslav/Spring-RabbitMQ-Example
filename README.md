@@ -4,7 +4,6 @@ Example project demonstrating the use of RabbitMQ with Spring-boot
 ## Set up RabbitMQ broker using Docker
 ```
 docker-compose up
-docker-machine ip
 ```
 
 ## Update Configuration
